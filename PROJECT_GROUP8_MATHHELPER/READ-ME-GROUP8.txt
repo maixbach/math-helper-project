@@ -1,0 +1,27 @@
+1. How to run web with our code file:
+* Step 1: Open and run all of 3 file  "cal_alg.py", "one_dvis.py" and ""main2.py" respectively.
+
+* Step 2: When running file "main2.py", the output will be:
+Warning: to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run C:\Users\Administrator\Downloads\mathhelper\mathhelper\main2.py [ARGUMENTS]
+
+* Step 3: Open "Anaconda Prompt" and paste the line above "streamlit run ..... [ARGUMENTS]", click Enter
+(Dont use Ctrl V to paste, you must click your right mouse and choose "Paste")
+
+* Step 4: In "Anaconda Prompt", if success, the screen will be "You can now view your Streamlit app in your browser."
+
+* Step 5: In your browser, now you can see our web app in local host
+
+2. (Recommend) Change the theme to make it more lively:
+
+* Step 1: Click into symbol at the upper right corner of the screen
+
+* Step 2: Choose "Settings"
+
+* Step 3: Choose "Edit active theme"
+
+* Step 4: Open file "config.txt" in our folder, copy code of each color then paste at the corresponding section in the "Edit active theme" box.
+
+Now, you can see that our web look so much better!
